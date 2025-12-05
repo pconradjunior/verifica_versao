@@ -46,7 +46,7 @@ MIT License
 
 ## Agradecimentos
 
-- [Academia do Flutter](https://academiadoflutter.com.br/)-
+- [Academia do Flutter](https://academiadoflutter.com.br/)
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
 
