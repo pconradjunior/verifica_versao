@@ -50,6 +50,10 @@ MIT License
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
 
+## Detalhes técnicos da implementação
+
+Veja o artigo técnico: [Implementação de Verificação de Versão em Apps Flutter](ARTICLE.md)
+
 ## Mais informações
 
 Veja mais no meu portfólio: [Pedro Conrad Jr](https://pconradjunior.github.io/)
